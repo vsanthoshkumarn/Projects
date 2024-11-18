@@ -1,0 +1,16 @@
+
+.contain{
+display: flex;
+}
+.list-one{
+    list-style: none;
+    display: flex;
+    list-style: none;
+
+}
+.list-one li{
+    padding: 10px;
+}
+.carouse    l{
+    color: rgb(255, 112, 10);
+}
