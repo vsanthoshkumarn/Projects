@@ -1,0 +1,83 @@
+.icons{
+    text-align: right;
+     padding-top: 40px; 
+     box-shadow: 10px 10px 10px 10px;
+} 
+.no2{
+    padding-right: 20px;
+    font-size: 17px;
+}
+.no1{
+    padding-right: 20px;
+    font-size: 17px;
+}
+.lab{
+    padding-right: 20px;
+    font-size: 25px;
+}
+.lab2{
+    padding-right: 10px;
+    font-size: 25px;
+}
+.search{
+    border: 2px solid whitesmoke;
+    margin: 0px 400px 0px 400px;
+    justify-content: center;
+    padding: 20px 40px 15px 40px;
+    border-radius: 35px;
+    
+    }
+
+.sr{
+    font-size: 17px;
+}
+.mic{
+    font-size: 17px;
+    padding-left: 20px;  
+    justify-content: right;
+
+}
+.camara{
+    font-size: 17px;
+    padding-left: 30px;
+}
+input{
+    font-size: 15px;
+    margin-left: 15px;
+     padding: 5px 300px 6px 5px; 
+    padding: 5px;
+    width: 500px;
+    border-style:none;
+    border:none;
+    outline: none;
+}
+img{
+    padding-top: 150px;
+padding-left: 610px; 
+}
+.app{
+    padding-top: 50px; 
+    display: grid;
+font-size: 40px;
+}
+.yt{
+    display: grid;
+    justify-content: left;
+
+    
+}
+.am{
+    color:black;
+    padding-right: 40px;
+}
+.github{
+    padding-right: 40px;
+}
+.fb{
+    color: rgb(48, 91, 220);
+    padding-right: 40px;
+}
+.dis{
+    color: rgb(133, 92, 171);
+    padding-right: 40px;
+}
